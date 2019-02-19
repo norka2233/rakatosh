@@ -1,0 +1,29 @@
+commit 1b7e14888ca252f3ed139dbf14bdd4c0a43e02c6
+Author: norka2233 <norka2233@gmail.com>
+Date:   Fri Feb 15 00:52:38 2019 +0200
+
+    ..
+
+commit 08a3d23ac6b92153207a70c802d731ee618b5108
+Author: norka2233 <norka2233@gmail.com>
+Date:   Fri Feb 15 00:49:07 2019 +0200
+
+    .
+
+commit d8678f70cc5ae0c017763990e75bca1228098079
+Author: norka2233 <norka2233@gmail.com>
+Date:   Fri Feb 15 00:36:51 2019 +0200
+
+    new change
+
+commit fbc30c0ee98296cdc5ff6aa7b1d2d909c2140774
+Author: norka2233 <norka2233@gmail.com>
+Date:   Fri Feb 15 00:34:50 2019 +0200
+
+    add readme
+
+commit ab273bf75512cac5e03302fc9062f47b88436d67
+Author: norka2233 <norka2233@gmail.com>
+Date:   Fri Feb 15 00:25:36 2019 +0200
+
+    new commit
